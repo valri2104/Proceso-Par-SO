@@ -5,6 +5,7 @@
 #include <windows.h>
 #include "ProcesoPar.h"
 
+
 // Estructura interna REAL
 typedef struct ProcesoPar_t {
     HANDLE hChildProcess;
