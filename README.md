@@ -19,7 +19,7 @@ La intención es crear un mecanismo simple de *IPC* (Inter-Process Communication
 
 ## Características principales
 
-### ✔ Comunicación bidireccional mediante Pipes
+### Comunicación bidireccional mediante Pipes
 El padre y el hijo se comunican mediante dos tuberías independientes:
 
 - Pipe 1 → Padre → Hijo  
