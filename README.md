@@ -197,14 +197,14 @@ make clean
 
 | Requisito | Estado |
 |----------|--------|
-| Pipes | ✔ |
-| Protocolo big-endian | ✔ |
-| Hilo lector | ✔ |
-| Callback | ✔ |
-| Makefile | ✔ |
-| Librería estática | ✔ |
-| Ejemplos | ✔ |
-| Proyecto funcional | 🎉 COMPLETO |
+| Pipes | OK |
+| Protocolo big-endian | OK |
+| Hilo lector | OK |
+| Callback | OK |
+| Makefile | OK |
+| Librería estática | OK |
+| Ejemplos | OK |
+| Proyecto funcional | COMPLETO |
 
 ---
 
